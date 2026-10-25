@@ -1,0 +1,65 @@
+# C&D Waste Analyzer
+
+## Project Overview
+The C&D Waste Analyzer is a Python-based project designed to process Construction and Demolition (C&D) waste records stored in a CSV file. It calculates total recorded waste volume, recycled amount, recycling percentage, zone-wise totals, and unique waste categories.
+
+## Objectives
+- Process waste records from a CSV file.
+- Calculate total recorded volume and recycled amount.
+- Analyze waste volume by zone.
+- Identify unique waste categories.
+- Generate an automated text report.
+- Handle missing files and invalid records.
+
+## Features
+- CSV file handling using Python.
+- Input validation and exception handling.
+- Zone-wise waste volume calculation.
+- Unique category identification using a set.
+- Recycling percentage calculation.
+- Automated report generation in `final_analysis.txt`.
+
+## Technologies Used
+- Python
+- CSV file handling
+- Built-in `csv` and `os` modules
+- Dictionaries and sets
+
+## Project Files
+- `main.py`: Main program containing the analysis logic.
+- `waste_logs.csv`: Input dataset.
+- `final_analysis.txt`: Generated analysis report.
+
+## How to Run
+1. Install Python.
+2. Download or clone this repository.
+3. Keep `main.py` and `waste_logs.csv` in the same folder.
+4. Open a terminal in that folder.
+5. Run:
+
+```bash
+python main.py
+```
+
+The program processes the CSV data and generates `final_analysis.txt`.
+
+## Sample Output
+- Valid records processed: 6
+- Total recorded volume: 75000
+- Total recycled amount: 3650
+- Recycled percentage: 4.87%
+
+**Note:** The units of the input volume are not specified in the dataset. Therefore, this output should not be interpreted as verified environmental compliance.
+
+## Team Members
+- Siddhey Jain
+- Aditya Bindal
+- Ankit Singh
+- Shashwat Yadav
+
+## Future Improvements
+- Add more waste records.
+- Include site-area and recycled-content fields.
+- Add charts and visualizations.
+- Export reports to PDF or Excel.
+- Develop a graphical user interface.
