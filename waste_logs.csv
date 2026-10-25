@@ -1,0 +1,7 @@
+Date,Zone,Site_ID,Category,Volume,Recycled
+2026-10-01,Sector 1,BLD-01,Concrete,15000,1000
+2026-10-02,Sector 1,BLD-02,Steel,6000,500
+2026-10-02,Sector 2,BLD-03,Bricks,19000,800
+2026-10-03,Tech Zone,BLD-04,Wood,10000,100
+2026-10-04,Tech Zone,BLD-05,Glass,5000,50
+2026-10-05,Knowledge Park,BLD-06,Soil,20000,1200

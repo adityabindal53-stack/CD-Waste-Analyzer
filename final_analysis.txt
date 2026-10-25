@@ -1,0 +1,26 @@
+C&D WASTE ANALYSIS REPORT
+=========================
+
+Valid records processed: 6
+Total recorded volume: 75000.00
+Total recycled amount: 3650.00
+Recycled percentage: 4.87%
+
+ZONE-WISE TOTALS
+----------------
+Sector 1: 21000.00
+Sector 2: 19000.00
+Tech Zone: 15000.00
+Knowledge Park: 20000.00
+
+UNIQUE WASTE CATEGORIES
+----------------------
+Bricks
+Concrete
+Glass
+Soil
+Steel
+Wood
+
+Note: Input units were not specified.
+The 20,000 sq.m threshold and 5% recycled-content target cannot be verified from the available columns.
